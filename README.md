@@ -45,7 +45,7 @@ git clone https://github.com/your-username/ecommerce-app.git
 ### 2. Go to project folder
 
 ```bash
-cd ecommerce-app
+cd ecommerce
 ```
 
 ### 3. Install dependencies
